@@ -1,0 +1,4 @@
+graphhoper run - 
+java -Ddw.graphhopper.datareader.file=bangalore1.shp -jar *.jar server config-example.yml
+
+wget https://graphhopper.com/public/releases/graphhopper-web-2.3.jar https://raw.githubusercontent.com/graphhopper/graphhopper/stable/config-example.yml
